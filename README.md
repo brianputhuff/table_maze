@@ -19,13 +19,13 @@ Replace the ***w*** with an apporpriate width value, and ***h*** with an appropr
 
 example: ```aMazeMe(33, 15);```
 
-![Sample Screenshot](./table_maze_example-33x15.PNG);
+![Sample Screenshot](./table_maze_example-33x15.PNG)
 
 Note: you can make the height be the same as the width by just entering the width argument alone.
 
 example: ```aMazeMe(25);```
 
-![Sample Screenshot](./table_maze_example-25x25.PNG);
+![Sample Screenshot](./table_maze_example-25x25.PNG)
 
 Dimensions must be greater than 3, and must be odd. If an argument less than 3 is entered, the program will default to 3. If an even value argument is used, the program will increment by one to make it odd.
 
